@@ -1,0 +1,2 @@
+# Projeto-de-Monitoramento-e-An-lise-de-Consumo-de-Energia-El-trica
+Este projeto tem como objetivo o desenvolvimento de uma aplicação para monitoramento e análise do consumo de energia elétrica em tempo real. A aplicação busca fornecer aos usuários uma visão detalhada sobre seus padrões de consumo, permitindo a visualização de dados históricos, identificação de picos de uso e geração de relatórios personalizados.
